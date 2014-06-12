@@ -1,0 +1,12 @@
+wlan_mt6582 590166 0 - Live 0x00000000
+ccci 129987 16 - Live 0x00000000
+ccci_plat 146770 1 ccci, Live 0x00000000
+mtk_wmt_wifi 2478 0 - Live 0x00000000
+mtk_fm_drv 135749 0 - Live 0x00000000
+mtk_stp_bt 40370 0 - Live 0x00000000
+mtk_stp_gps 37446 0 - Live 0x00000000
+mtk_stp_wmt 492596 7 wlan_mt6582,mtk_wmt_wifi,mtk_fm_drv,mtk_stp_bt,mtk_stp_gps, Live 0x00000000
+devinfo 1484 0 - Live 0x00000000
+devapc 5594 0 - Live 0x00000000
+sec 121580 0 - Live 0x00000000
+vcodec_kernel_driver 41694 0 - Live 0x00000000
